@@ -1,0 +1,22 @@
+[project]
+name = "notebooks-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph",
+    "langchain",
+    "langchain-community",
+    "tavily-python",
+    "Groq",
+    "google-genai",
+    "langchain-google-community"
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=6.29.5",
+    "pytest>=8.3.5",
+    "ruff>=0.11.2",
+]
