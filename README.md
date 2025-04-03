@@ -23,7 +23,10 @@ This project is a collection of Jupyter Notebooks for various exploratory data a
     ```
 
 
+## Contributing
+
+Contributions are welcome! Please submit a pull request with your improvements and additions.
 
 ## License
 
-This project is licensed under the GNU GENERAL PUBLIC License.
+This project is licensed under the MIT License.
